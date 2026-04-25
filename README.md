@@ -1,5 +1,4 @@
-### Hi there 👋
-# 👋 Hello, my name is Maria Clara, and i'm...
+### 👋 Hello, my name is Maria Clara, and i'm...
 
 🎓 **Systems Analysis and Development Student**  
 💻 **Future Back-End Developer**  
